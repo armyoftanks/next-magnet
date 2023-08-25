@@ -1,6 +1,6 @@
-# react-frontend
+# next-frontend
 
-Copy the magnetlife-next folder to your local environment
+Copy the next-magnet folder to your local environment
 
 To get the app running locally without creating a new app, you'll typically need to follow these steps:
 
